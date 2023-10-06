@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657526708517",
+    "project_id": "esmart-1b7ee",
+    "storage_bucket": "esmart-1b7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657526708517:android:d291f739fec8ee4106e2cc",
+        "android_client_info": {
+          "package_name": "com.example.commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36AbGusSvSz9Pp3ZIsPlgpLLosUNv7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
